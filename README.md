@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Das</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🌱 I’m currently learning **Rails**
+- 🌱 I’m currently learning **Rails,VueJS**
 
 - 🚀️ Creator of [**DayFinder gem**](https://rubygems.org/gems/DayFinder)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **js,ruby**
 
-- 📫 How to reach me **sourav.das1@yahoo.com**
+- 📫 How to reach me **d.sourav13@hotmail.com*
 
 - ⚡ Hobby **Reading,photo editing**
 
