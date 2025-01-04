@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **js,python,ruby**
 
-- 📫 How to reach me **d.sourav13@hotmail.com**
+- 📫 How to reach me **sourav292922@gmail.com**
 
 - ⚡ Hobby **Reading,photo editing**
 
